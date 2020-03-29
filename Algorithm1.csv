@@ -1,2 +1,2 @@
-CPU usage,Memory usage,Hard drive usage,RSS,VMS,Number of page faults
+CPU usage (%),Memory usage,Hard drive usage (kB),RSS (Bytes),VMS (Bytes),Number of page faults
 99.8,0.00095367431640625,4,69632.0,0.0,17.0
