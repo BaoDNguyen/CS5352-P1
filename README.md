@@ -53,3 +53,5 @@ CPU usage and hard drive usage are equal for three running conditions.
 Kruskal algorithm requires less memory resource than Prim algorithm.
 
 The memory resource for running both algorithms in one process is less than the sum of that for running each algorithms in two separately process.
+
+There is no virtual memory in all three running conditions
