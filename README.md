@@ -5,6 +5,7 @@ Name: Bao Dien Quoc Nguyen
 R#: 11660127
 
 ## Instructions
+![Results](results.png)
 ![Running steps](Running.gif)
 
 [Link to the code](https://texastechuniversity-my.sharepoint.com/:u:/g/personal/bao_d_nguyen_ttu_edu/EaUmMKaBAq9IuzEV8l0SqccB57KqUjnnuNoSJviChP5Xwg?e=UJXIEu)
