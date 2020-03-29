@@ -26,9 +26,9 @@ Run in order: Algorithm1.py, Algorithm2.py, BothAlgorithms.py, and drawResult.py
 
 ## Results
 ### Tables
-[Algorithm 1](Algorithm1.csv)
+[Prim algorithm](PrimAlgorithm.csv)
 
-[Algorithm 2](Algorithm2.csv)
+[Kruskal algorithm](KruskalAlgorithm.csv)
 
 [Both algorithms](BothAlgorithms.csv)
 
