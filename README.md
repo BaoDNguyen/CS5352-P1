@@ -13,7 +13,12 @@ R#: 11660127
 Download and open the source code by [PyCharm CE](https://www.jetbrains.com/pycharm/download/#section=mac)
 
 #### Step 2:
-Change
+Change paths to graph1.txt for reading graph input in Algorithm1.py, Algorithm2.py, and BothAlgorithms.py
+![read](Path_to_graph_file.png)
+and paths to the location for saving files in these three codes
+![save](Path_to_save_file.png)
+
+
 
 ## Results
 ### Tables
