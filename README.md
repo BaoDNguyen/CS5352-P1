@@ -7,6 +7,11 @@ R#: 11660127
 ## Instructions
 ![Running steps](Running.gif)
 
+[Link to the code](https://texastechuniversity-my.sharepoint.com/:u:/g/personal/bao_d_nguyen_ttu_edu/ERyqkjNKJAtEjxe1AGHOzwEBL81cuuoi47LPw-Wjbter8w?e=UjQyx4)
+
+#### Step 1:
+Download and open the source code by PyCharm CE
+
 ## Results
 ### Tables
 [Algorithm 1](Algorithm1.csv)
