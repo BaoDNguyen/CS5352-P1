@@ -5,6 +5,9 @@ Name: Bao Dien Quoc Nguyen
 R#: 11660127
 
 ## Results
+### Tables
+[Algorithm 1](Algorithm1.csv)
+
 ### CPU usage as percentage
 ![CPU](CPU_usage.png)
 
