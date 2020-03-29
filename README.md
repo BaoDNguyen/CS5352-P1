@@ -10,7 +10,10 @@ R#: 11660127
 [Link to the code](https://texastechuniversity-my.sharepoint.com/:u:/g/personal/bao_d_nguyen_ttu_edu/ERyqkjNKJAtEjxe1AGHOzwEBL81cuuoi47LPw-Wjbter8w?e=UjQyx4)
 
 #### Step 1:
-Download and open the source code by PyCharm CE
+Download and open the source code by [PyCharm CE](https://www.jetbrains.com/pycharm/download/#section=mac)
+
+#### Step 2:
+Change
 
 ## Results
 ### Tables
