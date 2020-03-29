@@ -7,7 +7,9 @@ R#: 11660127
 ## Results
 ### Tables
 [Algorithm 1](Algorithm1.csv)
+
 [Algorithm 2](Algorithm2.csv)
+
 [Both algorithms](BothAlgorithms.csv)
 
 ### CPU usage as percentage
