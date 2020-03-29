@@ -7,7 +7,7 @@ R#: 11660127
 ## Instructions
 ![Running steps](Running.gif)
 
-[Link to the code](https://texastechuniversity-my.sharepoint.com/:u:/g/personal/bao_d_nguyen_ttu_edu/ERyqkjNKJAtEjxe1AGHOzwEBL81cuuoi47LPw-Wjbter8w?e=UjQyx4)
+[Link to the code](https://texastechuniversity-my.sharepoint.com/:u:/g/personal/bao_d_nguyen_ttu_edu/EeAW7jp1NZ9Jr_EQoKkN-_AB4Vb9G4n8mjzqxEbCjfqCCA?e=NTox0k)
 
 #### Step 1:
 Download and open the source code by [PyCharm CE](https://www.jetbrains.com/pycharm/download/#section=mac)
