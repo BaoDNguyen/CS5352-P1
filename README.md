@@ -46,3 +46,8 @@ Run in order: Algorithm1.py, Algorithm2.py, BothAlgorithms.py, and drawResult.py
 
 ### Number of page faults
 ![page faults](Page_faults.png)
+
+### Comments
+CPU usage and hard drive usage are equal for three running conditions.
+Kruskal algorithm requires less memory resource than Prim algorithm.
+The memory resource for running both algorithms in one process is less than the sum of that for running each algorithms in two separately process.
