@@ -15,10 +15,14 @@ Download and open the source code by [PyCharm CE](https://www.jetbrains.com/pych
 #### Step 2:
 Change paths to graph1.txt for reading graph input in Algorithm1.py, Algorithm2.py, and BothAlgorithms.py
 ![read](Path_to_graph_file.png)
+
 and paths to the location for saving files in these three codes
 ![save](Path_to_save_file.png)
 
+Change paths to saving files above in drawResult.py
 
+#### Step 3:
+Run in order: Algorithm1.py, Algorithm2.py, BothAlgorithms.py, and drawResult.py.
 
 ## Results
 ### Tables
