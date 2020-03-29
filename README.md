@@ -4,6 +4,9 @@
 Name: Bao Dien Quoc Nguyen
 R#: 11660127
 
+## Instructions
+![Running steps](Running.gif)
+
 ## Results
 ### Tables
 [Algorithm 1](Algorithm1.csv)
